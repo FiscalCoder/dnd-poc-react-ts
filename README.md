@@ -48,7 +48,7 @@ This project implements a full-stack application using React, TypeScript, and Vi
    ```
    docker-compose up
    ```
-4. Open your browser and go to `http://localhost:5173`
+4. Open your browser and go to `http://localhost:5000`
 
 ## API Design
 Currently, the API is minimal with a single GET endpoint (/api/cat-gifs) to fetch all cat GIFs. For future extensibility, consider the following potential endpoints:

@@ -1,0 +1,22 @@
+{
+  "name": "dnd-api",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run index.js",
+    "seed": "bun seed.js",
+    "start": "bun run seed && bun run dev"
+
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}

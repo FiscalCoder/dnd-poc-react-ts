@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "Working",
+      "image": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4wd296eGVrOW9lZmJqMWk4NXo0OGQ3bGhwanhuYmxtMWs0aGx1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif",
+      "description": "lorem ipsum dolor sit amet, consectetur "
+    },
+  
+    {
+      "id": 2,
+      "name": "Seriously working",
+      "image": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdxaWoyM2QzcDZzYnp1Nm8zc2VlMG1mdzh0NDdla2UxOTg5dGI3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif",
+      "description": "lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+      "id": 3,
+      "name": "working remotely",
+      "image": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBvdjI2bnp5c3o0a3ByYzQ2OGwxYnIzczVheGcyMGo3dDhyOHFycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vQSQ3cNXuDGo/giphy.gif",
+      "description": "lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+      "id": 4,
+      "name": "Going to office on friday",
+      "image": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd0MXBnNzF0MDh2YjlvbWwzOWpncDN1OWUycjZyOHNmYWZ6Nm9mZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XmFXNCKrHcPw4/giphy.gif",
+      "description": "lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+      "id": 5,
+      "name": "WFH",
+      "image": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhubDd3c3Y0d2I2NThxNTQxMDl1N3UxbHNobGxmczlxYmMxOXd0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V0ZyjR3QZkLyo/giphy.gif",
+      "description": "lorem ipsum dolor sit amet, consectetur "
+    }
+
+  ]

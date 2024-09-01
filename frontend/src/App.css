@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.centered-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+
+.ant-image-mask, .ant-image-img {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+/* CardGrid.css */
+.card-grid-item {
+  width: 240px;
+  margin: 32px;
+}
+
+.card-grid-image {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}

@@ -76,19 +76,15 @@ Currently, the API is minimal with a single GET endpoint (/api/cat-gifs) to fetc
    - Clicking the close icon will prompt for confirmation before deletion.
    - Implement the deletion both in the UI and via a backend API call.
 
-3. Image Overlay Functionality:
-   - When a card is clicked, display the image as an overlay in the middle of the webpage.
-   - Add the ability to close the overlay by pressing the ESC key.
-
-4. Error Handling Enhancements:
+3. Error Handling Enhancements:
    - Improve error feedback for failed image loads.
    - Add error handling for the new card addition and deletion processes.
 
-5. Accessibility Improvements:
+4. Accessibility Improvements:
    - Enhance keyboard navigation for the drag-and-drop functionality.
    - Add appropriate ARIA labels to all interactive elements.
 
-6. Mobile Responsiveness:
+5. Mobile Responsiveness:
    - Implement a responsive design that adapts to various screen sizes.
    - Create a custom hook to dynamically adjust the grid layout based on viewport width.
 
